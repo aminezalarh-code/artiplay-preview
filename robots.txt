@@ -1,0 +1,4 @@
+# Static preview of artiplay.com, for review only.
+# The live site is https://artiplay.com/ — this copy must never be indexed.
+User-agent: *
+Disallow: /
